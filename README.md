@@ -1,1 +1,1 @@
-# shopify-printify-pricing-sync
+# Scripts to Comapre Current Shopify and Printify Pricing
