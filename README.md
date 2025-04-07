@@ -1,0 +1,1 @@
+# shopify-printify-pricing-sync
