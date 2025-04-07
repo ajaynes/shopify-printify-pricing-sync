@@ -1,0 +1,5 @@
+[functions]
+  directory = "netlify/functions"
+
+[[functions.pricing-sync.schedule]]
+  cron = "0 5 * * *"
